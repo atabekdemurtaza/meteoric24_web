@@ -58,4 +58,10 @@ Start the server
   python manage.py runserver
 ```
 
+Test server on pythonanywhere
+
+- [meteoric24.com](https://meteoric24.pythonanywhere.com/)
+
 ![Logo](logo.jpg)
+
+
